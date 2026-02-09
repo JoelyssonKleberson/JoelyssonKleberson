@@ -10,9 +10,4 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div>
 
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoelyssonKleberson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoelyssonKleberson&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
 ![github contribution grid snake animation](https://github.com/JoelyssonKleberson/JoelyssonKleberson/blob/output/github-contribution-grid-snake-dark.svg)
