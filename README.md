@@ -6,7 +6,7 @@
 </div>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,py,cs" />
+  <img src="https://skillicons.dev/icons?i=py,java" />
 </div>
 
 <br />
