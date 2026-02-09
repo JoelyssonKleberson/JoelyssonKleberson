@@ -21,4 +21,4 @@ Desenvolvedor focado em Python e Java, apaixonado por tecnologia e em constante 
 </div>
 
 ## 🐍 Snake
-![github contribution grid snake animation](https://github.com/JoelyssonKleberson/JoelyssonKleberson/blob/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://github.com/JoelyssonKleberson/JoelyssonKleberson/blob/output/github-contribution-grid-snake-dark.svg)
