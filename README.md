@@ -14,7 +14,7 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IFPB - Camp
 
 # 
 
-### 📱 Redes Socias
+### 📱 Redes Sociais
 <br />
 
 <div align="left">
