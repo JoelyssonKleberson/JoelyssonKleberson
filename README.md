@@ -1,14 +1,20 @@
 ### 👨🏻‍💻 Joelysson Kleberson
 # 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoelyssonKleberson&show_icons=true&theme=dracula&border_color=7d26cd&text_color=7d26cd&icon_color=7d26cd&title_color=7d26cd" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoelyssonKleberson&layout=compact&theme=dracula&border_color=7d26cd&text_color=7d26cd&icon_color=7d26cd&title_color=7d26cd" />
-</div>
+**`Estudante de Programação`**
 
+Me chamo Joelysson Kleberson, tenho 18 anos e sou natural de Pernambuco.
+Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IFPB - Campus Monteiro.
+
+---
+
+### 🤖 Linguagens e Tecnologias
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py,java" />
 </div>
 
+# 
+
+### 📱 Redes Socias
 <br />
 
 <div align="left">
