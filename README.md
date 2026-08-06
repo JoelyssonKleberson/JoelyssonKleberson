@@ -54,7 +54,7 @@ Além dos meus projetos acadêmicos e pessoais, compartilho minha evolução e p
 <!-- Sequências e Estatísticas no GitHub -->
 <p align="center">
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=JoelyssonKleberson&theme=tokyonight&hide_border=true"/>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JoelyssonKleberson&theme=tokyonight&border_radius=10"/>
 </p>
 
